@@ -41,13 +41,6 @@ There are 6252 images in train and 2680 images in test data. The categories of s
 The Evaluation metric for this competition is weighted F1 Score.
 
 
-#### Python 3.6 libraries
-```
-fastai==1.0.50.post1
-torch==1.0.1.post2
-torchvision==0.2.2
-pretrainedmodels
-```
 
 
 
